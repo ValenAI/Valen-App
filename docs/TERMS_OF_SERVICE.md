@@ -113,7 +113,7 @@ We might update these terms. If we do, we'll update the date at the top. Continu
 
 ## 14. Questions?
 
-**Email:** [support@valenai.com]
+**Email:** [support@valenai.com](mailto:support@valenai.com)
 
 ---
 
