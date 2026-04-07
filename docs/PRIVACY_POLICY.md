@@ -145,7 +145,7 @@ We may update this policy. If we do, we'll update the date at the top. Continued
 
 Reach out:
 
-**Email:** [support@valenai.com](mailto:support@valenai.com)
+**Email:** [valenai.app@gmail.com](mailto:valenai.app@gmail.com)
 
 ---
 

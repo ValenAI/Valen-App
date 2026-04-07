@@ -39,4 +39,4 @@ This removes all your goals, tasks, chats, and achievements while keeping your a
 
 ## Questions?
 
-If you need help, contact us at [support@valenai.com](mailto:support@valenai.com).
+If you need help, contact us at [valenai.app@gmail.com](mailto:valenai.app@gmail.com).
