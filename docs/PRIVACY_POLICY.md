@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+layout: page
+title: Privacy Policy
+---
 
 **Last Updated:** March 10, 2026
 
@@ -142,7 +145,7 @@ We may update this policy. If we do, we'll update the date at the top. Continued
 
 Reach out:
 
-**Email:** [YOUR_CONTACT_EMAIL]
+**Email:** [support@valenai.com]
 
 ---
 

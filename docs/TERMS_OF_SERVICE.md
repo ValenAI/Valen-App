@@ -1,4 +1,7 @@
-# Terms of Service
+---
+layout: page
+title: Terms of Service
+---
 
 **Last Updated:** March 10, 2026
 
@@ -110,7 +113,7 @@ We might update these terms. If we do, we'll update the date at the top. Continu
 
 ## 14. Questions?
 
-**Email:** [YOUR_CONTACT_EMAIL]
+**Email:** [support@valenai.com]
 
 ---
 

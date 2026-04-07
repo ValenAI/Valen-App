@@ -2,3 +2,7 @@
 title: Valen — Legal
 description: Terms of Service and Privacy Policy for the Valen app by GrowthFlux
 theme: minima
+header_pages:
+  - PRIVACY_POLICY.md
+  - TERMS_OF_SERVICE.md
+  - DELETE_ACCOUNT.md
